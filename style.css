@@ -1,0 +1,32 @@
+div{
+   background-color: #78C1F3;/**color de un solo parte**/
+}
+h1{
+    color:#F8FDCF;/**color del titulo**/
+    font-size: 70px;/**tamaño del titulo**/
+    text-align: center;/**solo para centar textos**/
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /**fuente de tipo de letra**/
+}
+
+p{
+    color: #000;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    width: 300px;/**tamaño de ancho**/
+    height: 300px;/**tamaño de alto**/
+    border-radius: 20%;
+
+}
+
+
+
+
+
+
+
+
